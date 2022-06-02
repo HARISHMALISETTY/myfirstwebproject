@@ -1,2 +1,2 @@
-# harishmalisetty.github.io
+# harishmalisetty
 This is my first web application on github
